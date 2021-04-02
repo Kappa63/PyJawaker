@@ -1,3 +1,8 @@
+'''
+Author: Karim Q.
+Date: 11/2/21
+'''
+
 import numpy as np
 from PIL import Image, ImageGrab
 from pynput.mouse import Button, Controller
