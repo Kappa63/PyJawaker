@@ -1,3 +1,5 @@
+# OUTDATED AND NO LONGER WORKS
+
 # PyJawaker
 
 Built to Play Tarneeb400 on the mobile version of "Jawaker".
